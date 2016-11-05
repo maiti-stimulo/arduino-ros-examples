@@ -16,7 +16,7 @@ $ cd your-arduino-sketchbook/libraries
 $ rosrun rosserial_arduino make_libraries.py .
 ```
 
-*Note: In case you later generate (and install!) a new custom ROS message, or you install a new package with new messages, you will need to run again this script.
+*Note: In case you later generate (and install!) a new custom ROS message, or you install a new package with new messages, you will need to run again this script.*
 
 ## Running
 1. Complie and Load The Arduino code to your board with the Arduino IDE
