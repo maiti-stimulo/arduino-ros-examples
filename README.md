@@ -34,7 +34,9 @@ pasos seguits:
   3_Aquest codi ha possat en marxa rqt on ens mostra el plot del sinus.
   Ens ha mostrat la variable, però en cas contrari dins de la casella topic s'ha d'escriure 
 	$ /wave/data
+	
   4_Imatge del plot a un mostreig de 20
-  
+  https://github.com/maiti-stimulo/arduino-ros-examples/edit/master/rqt_plot_20.png
   
   5_ imatge del plot a mostreig 5
+  https://github.com/maiti-stimulo/arduino-ros-examples/edit/master/rqt_plot_05.png
