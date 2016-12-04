@@ -41,4 +41,4 @@ pasos seguits:
   
   5_ imatge del plot a mostreig 5
   
- ![Plot_05](https://github.com/maiti-stimulo/arduino-ros-examples/edit/master/rqt_plot_05.png)
+ ![Plot_05](./rqt_plot_05.png)
