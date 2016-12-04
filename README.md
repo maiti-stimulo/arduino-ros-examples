@@ -37,7 +37,7 @@ pasos seguits:
 	
   4_Imatge del plot a un mostreig de 20
   
-  ![Plot_20](https://github.com/maiti-stimulo/arduino-ros-examples/edit/master/rqt_plot_20.png)
+  ![Plot_20](./rqt_plot_20.png)
   
   5_ imatge del plot a mostreig 5
   
