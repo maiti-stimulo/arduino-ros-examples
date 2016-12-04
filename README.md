@@ -26,19 +26,24 @@ $ roslaunch arduino_ros_examples oscillator.launch
 ```
 Desprès de molts intents he aconseguit fer-lo funcionar.
 pasos seguits:
+
   1_ copiar carpeta dins del katkin workspace.
   
-  2_Des de la carpeta build hem executat el següent fitxer:
+  2_ modificacio del codi:
+  
+  Hem agregat un subscriber que ens permer modificar la mostra desde un terminal
+  	
+  3_Des de la carpeta build hem executat el següent fitxer:
 	$ roslaunch arduino_ros_examples oscillator.launch
   
-  3_Aquest codi ha possat en marxa rqt on ens mostra el plot del sinus.
+  4_Aquest codi ha possat en marxa rqt on ens mostra el plot del sinus.
   Ens ha mostrat la variable, però en cas contrari dins de la casella topic s'ha d'escriure 
 	$ /wave/data
 	
-  4_Imatge del plot a un mostreig de 20
+  5_Imatge del plot a un mostreig de 20
   
   ![Plot_20](./rqt_plot_20.png)
   
-  5_ imatge del plot a mostreig 5
+  6_ imatge del plot a mostreig 5
   
  ![Plot_05](./rqt_plot_05.png)
